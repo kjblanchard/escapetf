@@ -559,7 +559,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: SUPER_TILEMAP_EDITOR
+    1: SUPER_TILEMAP_EDITOR;RH_SerializedDictionary
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
